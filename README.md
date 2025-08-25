@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Ritesh Patel  
 
-<!--
-**anonymous98400/anonymous98400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 🎓 B.Tech in Computer Science & Engineering (2025)  
+- 💡 Passionate about **AI, IoT, and Full Stack Development**  
+- 🌱 Currently learning **Spring Boot & DevOps**  
+- 🔭 Exploring **LangChain & Generative AI**  
+- 💼 GenAI Intern at **ValueHealth**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Technical Skills  
+
+### Programming Languages  
+- Python | Java | JavaScript | C++  
+
+### Frameworks & Tools  
+- Git & GitHub | VS Code | LangChain | Spring Boot | Docker  
+
+### Databases  
+- MySQL | MongoDB | PostgreSQL  
+
+---
+
+## 🚀 Projects  
+
+### 🌟 [College Advisor AI](https://github.com/anonymous98400/CollegeAdvisorAI)  
+- AI-powered college recommendation system  
+- Built using **Python, LangChain, Google Generative AI, Streamlit**  
+
+### 🌦️ [Weather App](https://github.com/anonymous98400/Spark4.0/tree/main/Weather-App)  
+- Simple weather forecast app using **OpenWeather API**  
+- Built with **HTML, CSS, JavaScript**  
+
+### 🏥 ICU Patient Monitoring System (IoT)  
+- IoT-based patient monitoring with **ThingSpeak** integration  
+- Shared alarm system for multiple patients  
+- Built using **Arduino, IoT sensors, Python**  
+
+---
+
+## 🌟 Work Experience  
+
+### ValueHealth — *GenAI Intern*  
+**Aug 2025 – Present**  
+- Built AI solutions for **flight info automation & college search assistants**  
+- Developed **LangChain pipelines** with Google Generative AI  
+- Contributed to AI-powered internal data analysis tools  
+
+---
+
+## 📜 Certifications  
+- Java Full Stack Development (Ongoing)  
+- DevOps Fundamentals (Ongoing)  
+
+---
+
+## 🔗 Connect With Me  
+- 💼 [LinkedIn](https://linkedin.com/in/riteshpatel)  
+- 💻 [GitHub](https://github.com/anonymous98400)  
+- 🌐 Portfolio: [your-portfolio-link.com]  
+- ✍️ Blog: [your-blog-link.com]  
